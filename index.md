@@ -48,6 +48,6 @@ com.danielstudio.app.wowtu | 10K - 50K | A3 | steal Weibo cookies and abuse cook
 com.aol.mobile.aim | 1M - 5M | A3 | steal Facebook cookies and save them into sharedpreference | [80931d076bd5be08e7e1077e31b409e2]()
 
 
-If you want the 21 malicious cases for academic study, please contact me: xh_zhang [AT] fudan.edu.cn
+#### If you want the 21 malicious cases for academic study, please contact me: xh_zhang [AT] fudan.edu.cn
 
 
