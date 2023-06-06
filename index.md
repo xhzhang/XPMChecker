@@ -23,6 +23,8 @@ These apps are selected with more than 5,000 installations across 48 categories.
 Discovered malicious XPM behaviors with different aims: impersonating relying party in OAuth (A1, 2 apps), stealing user credentials (A2, 6 apps), stealing cookies (A3, 14 apps). One app named InstaView exhibits both A1 and A2 behaviors.
 
 
+**If you want the 21 malicious cases for academic study, please contact me: xh_zhang [AT] fudan.edu.cn**
+
 Package Name | Installations | Malicious Behavior | Description | APK MD5
 ---|---|---|---|---|---
 com.chatous.chatous | 10M-50M | A3 | steal Facebook cookies and abuse cookies to send spam messages | [d8726437e1f2bbe17257c4eac6707bee]()
@@ -48,6 +50,6 @@ com.danielstudio.app.wowtu | 10K - 50K | A3 | steal Weibo cookies and abuse cook
 com.aol.mobile.aim | 1M - 5M | A3 | steal Facebook cookies and save them into sharedpreference | [80931d076bd5be08e7e1077e31b409e2]()
 
 
-#### If you want the 21 malicious cases for academic study, please contact me: xh_zhang [AT] fudan.edu.cn
+
 
 
